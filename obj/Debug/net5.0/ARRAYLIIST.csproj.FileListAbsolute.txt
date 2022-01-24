@@ -1,0 +1,16 @@
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\bin\Debug\net5.0\ARRAYLIIST.exe
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\bin\Debug\net5.0\ARRAYLIIST.deps.json
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\bin\Debug\net5.0\ARRAYLIIST.runtimeconfig.json
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\bin\Debug\net5.0\ARRAYLIIST.runtimeconfig.dev.json
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\bin\Debug\net5.0\ARRAYLIIST.dll
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\bin\Debug\net5.0\ref\ARRAYLIIST.dll
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\bin\Debug\net5.0\ARRAYLIIST.pdb
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.AssemblyInfo.cs
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.dll
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ref\ARRAYLIIST.dll
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.pdb
+C:\Users\halil\Desktop\Pratikler\ARRAYLIIST\obj\Debug\net5.0\ARRAYLIIST.genruntimeconfig.cache
